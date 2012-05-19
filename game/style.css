@@ -1,0 +1,89 @@
+body{
+	background: #CCC;
+}
+h1{
+	font-family: helvetica, sans-serif;
+	font-size: 38px;
+	color: #000000;
+	font-weight: bold;
+	text-align: center;
+	
+}
+.headingbox{
+	background-color: #CCC;
+	padding: 5px;
+	margin-right: 450px;
+	margin-left: 430px;
+	text-align: center;
+}
+div #warpper{
+	margin: 0 auto;
+
+}
+div #gameContaner{
+	height: 350px;
+	width: 350px;
+	margin: 0 auto;
+	margin-top: 20px;
+	
+}
+div #info{
+	margin: 0 auto;
+	height: 350px;
+	width: 350px;
+}
+div #playercon{
+	height: 180px;
+	width: 110px;
+	margin-right: 495px;
+	float: right;
+}
+.box{
+	height: 100px;
+	width: 100px;
+	border: 2px solid #FFFFFF;
+	background-color: #000000;
+	float: left;
+}
+.resetbutton{
+	margin-left: 450px;
+	height: 20px;
+	width: 100px;
+	padding: 5px;
+	float: left;
+}
+.player1{
+	margin: 0 auto;
+	height: 20px;
+	width: 100px;
+	border: 2px solid #FFFFFF;
+	background-color: #000000;
+	color: #ffffff;
+	padding: 5px;
+}
+.player2{
+	margin: 0 auto;
+	height: 20px;
+	width: 100px;
+	border: 2px solid #FFFFFF;
+	background-color: #000000;
+	color: #ffffff;
+	padding: 5px;
+}
+.currentturn{
+	background: green;
+}
+.newline{
+	clear: left;
+}
+.cross{
+	background-image: url(images/cross.png);
+	background-repeat: no-repeat;
+}	
+.nought{
+	background-image: url(images/nought.png);
+	background-repeat: no-repeat;
+}
+.box:hover{
+	background-color: #CCC;
+}
