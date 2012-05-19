@@ -1,12 +1,12 @@
-This is the classic game of tic-tac-toe I made while leaning jquery. 
+This is the classic game of tic-tac-toe I made while learning jquery. 
 
-I have made it as as part of my Event Driven Programing class in college.
+I have made it as part of my Event Driven Programing class in college.
 
 How to play:
 
-Player 1 is X and take the first turn.
+Player 1 is X and takes the first turn.
 Player 2 is O and takes the second turn.
 
-Repeat untill 3 in a row match or no moves can be taken. 
+Repeat until 3 in a row match is reached or no moves can be taken. 
 
 The new game button resets the board.
